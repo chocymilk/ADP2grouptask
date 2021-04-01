@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: za.ac.cput.calculator.CalculateTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.501 s <<< FAILURE! - in za.ac.cput.calculator.CalculateTest
+testSomeMethod(za.ac.cput.calculator.CalculateTest)  Time elapsed: 0.052 s  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at za.ac.cput.calculator.CalculateTest.testSomeMethod(CalculateTest.java:48)
+
